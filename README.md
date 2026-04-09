@@ -12,10 +12,7 @@ https://bigmartmlmodel-bynikhil.streamlit.app/
 - [📈 Performance Metrics](#-performance-metrics)
 - [🛠 Technology Stack](#-technology-stack)
 - [💡 Business Impact](#-business-impact)
-- [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
-- [👥 Authors](#-authors)
-- [🙏 Acknowledgments](#-acknowledgments)
+
 
 ## ✨ Features
 
