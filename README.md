@@ -1,18 +1,6 @@
 # App Link
 https://bigmartmlmodel-bynikhil.streamlit.app/
 # 🏪 BigMart Sales Prediction System
-## 📋 Table of Contents
-- [✨ Features](#-features)
-- [🎯 Problem Statement](#-problem-statement)
-- [🏗 Architecture](#-architecture)
-- [🚀 Getting Started](#-getting-started)
-- [📊 Usage Guide](#-usage-guide)
-- [📁 Project Structure](#-project-structure)
-- [🤖 Model Information](#-model-information)
-- [📈 Performance Metrics](#-performance-metrics)
-- [🛠 Technology Stack](#-technology-stack)
-- [💡 Business Impact](#-business-impact)
-
 
 ## ✨ Features
 
@@ -42,7 +30,7 @@ BigMart operates multiple retail outlets across different locations. Each outlet
 - **Pricing Strategy** - Determine optimal MRP
 - **Outlet Performance** - Compare different outlet types
 - **Product Placement** - Improve item visibility strategies
-🤖 Model Information
+## 🤖 Model Information
 Algorithm Used
 Gradient Boosting Regressor (Optimized)
 
@@ -79,13 +67,13 @@ Outlet_Type (categorical)
 Target Variable
 Item_Outlet_Sales (numerical) - Sales amount in dollars
 
-📈 Performance Metrics
+## 📈 Performance Metrics
 Metric	Score
 R² Score	0.89
 RMSE	1,023.45
 MAE	782.31
 MAPE	12.3%
-🛠 Technology Stack
+## 🛠 Technology Stack
 Frontend
 Streamlit - Web application framework
 
@@ -112,7 +100,7 @@ VS Code - IDE (recommended)
 
 Jupyter - Exploratory analysis
 
-💡 Business Impact
+## 💡 Business Impact
 For Retail Managers
 Optimize Inventory: Reduce stockouts by 25%
 
@@ -127,7 +115,7 @@ Performance Tracking: Compare outlet performance
 
 Trend Analysis: Identify sales patterns
 
-Key Benefits
+## Key Benefits
 📈 15-20% reduction in inventory costs
 
 💰 10-15% increase in sales revenue
