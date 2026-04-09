@@ -3,4 +3,4 @@ pandas
 numpy
 scikit-learn
 pymysql
-pip install streamlit pandas numpy scikit-learn plotly pillow
+plotly
